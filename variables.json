@@ -3,7 +3,7 @@
   "trademark": "Vault",
   "installpath": "/data/wwwroot/vault",
   "compose_file": "docker-compose.yml",
-  "fork_url": "https://github.com/hashicorp/docker-vault/issues",
+  "fork_url": "https://github.com/hashicorp/docker-vault",
   "env_file": ".env",
   "requirements":{
     "cpu_arch": "Linux x86-64, ARM 32/64, x86/i686",
@@ -14,5 +14,3 @@
     "url": "https://learn.hashicorp.com/tutorials/vault"
   }
 }
-
-
