@@ -1,6 +1,6 @@
 # Vault
 
-Vault 是hashicorp旗下的密码管理方案，支出多用户、API和LDAP
+Vault 是hashicorp旗下的密码管理方案，支出多用户户、API和LDAP等
 
 ## 安装
 
